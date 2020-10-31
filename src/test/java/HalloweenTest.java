@@ -3,5 +3,7 @@ public class HalloweenTest {
 
 
         System.out.println("this is for test");
+
+        System.out.println("I'm about to give everyone candy");
     }
 }
